@@ -45,16 +45,10 @@
   <a href="https://www.linkedin.com/in/sebastian-orjuela-sanchez/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://wa.me/0573222263066" target="_blank">
+  <a href="https://wa.me/573222263066" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Orjuelalaley/Orjuelalaley/output/snake.svg" alt="Snake animation" />
-
-###
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/70551787?s=400&u=f2154496e6592ec8394b7274d7ebcfe320e8fbb1&v=4"  />
 
