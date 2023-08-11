@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">📚  I'm a dedicated student at Pontificia Universidad Javeriana. As I study Systems Engineering, I find myself in the midst of my eighth semester.<br><br>🛠️ My daily toolbox includes:Java, Spring Boot, and Android Studio.<br><br>🌱 I'm currently developing into Cloud computing, nurturing my knowledge in this area.<br><br>💬 Feel free to strike up a conversation about Java or anything else!</h3>
+<h3 align="left">📚  I'm a dedicated student at Pontificia Universidad Javeriana. As I study Systems Engineering, I find myself in the midst of my eighth semester.<br><br>🛠️ My daily toolbox includes:Java, Spring Boot, and Android Studio.<br><br>🌱 I'm currently delving into Cloud computing, nurturing my knowledge in this area.<br><br>💬 Feel free to strike up a conversation about Java or anything else!</h3>
 
 ###
 
@@ -14,7 +14,9 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/Orjuelalaley/count.svg?"  />
+<br clear="both">
+
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/70551787?s=400&u=f2154496e6592ec8394b7274d7ebcfe320e8fbb1&v=4"  />
 
 ###
 
@@ -54,5 +56,8 @@
   </a>
 </div>
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/70551787?s=400&u=f2154496e6592ec8394b7274d7ebcfe320e8fbb1&v=4"  />
+###
 
+<img align="left" src="https://profile-counter.glitch.me/Orjuelalaley/count.svg?"  />
+
+###
