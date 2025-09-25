@@ -1,12 +1,11 @@
-<h2 align="left">Hi There 👋! My name is Sebastián Orjuela and I'm a Backend Developer.</h2>
+<h2 align="left">Hi There 👋! My name is Sebastián Orjuela and I'm a Junior Software Development Engineer.</h2>
 
 ###
 
 <h3 align="left">
-📚 I'm a proud graduate from Pontificia Universidad Javeriana, where I earned my degree in Systems Engineering.<br><br>
-🛠️ My daily toolbox includes: Java, Spring Boot, and Android Studio.<br><br>
-🌱 I'm currently delving into Cloud computing, nurturing my knowledge in this area.<br><br>
-💬 Feel free to strike up a conversation about Java or anything else!
+🛠️ My daily toolbox includes: C/C++, Python, Java, and Spring Boot.<br><br>
+☁️ I'm currently delving into Cloud Computing, expanding my knowledge and skills in this area.<br><br>
+💬 Feel free to strike up a conversation about programming, software development, or tech in general!
 </h3>
 
 ###
